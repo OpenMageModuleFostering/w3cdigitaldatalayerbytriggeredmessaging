@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/W3CDigitalDataLayerByTriggeredMessaging",
+    "name": "OpenMageModuleFostering\/W3CDigitalDataLayerByTriggeredMessaging",
     "type": "magento-module",
     "license": "Apache-Software-License-v2",
     "homepage": "",
     "description": "Adds the W3C Digital Data Layer spec to your store.",
     "authors": [
-    {
-        "name": "Muhammed Miah",
-        "email": "muhammed.miah@triggeredmessaging.com"
-    }
-],
+        {
+            "name": "Muhammed Miah",
+            "email": "muhammed.miah@triggeredmessaging.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
